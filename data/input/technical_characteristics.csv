@@ -1,0 +1,12 @@
+Id;Entity;Magnitude;MagnitudeValue;MagnitudeUnits
+1;battery;nominal_energy;250;kWh
+1;battery;max_input_power;150;kW
+1;battery;max_output_power;250;kW
+2;battery;nominal_energy;250;kWh
+2;battery;max_input_power;150;kW
+2;battery;max_output_power;250;kW
+3;photovoltaic_plate;surface;1000;m²
+3;photovoltaic_plate;efficiency;92.5;%
+3;photovoltaic_plate;max_output_power;200;kW
+4;point_of_grid_delivery;max_input_power;2000;kW
+5;point_of_consumption;
